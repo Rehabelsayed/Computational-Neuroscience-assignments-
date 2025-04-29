@@ -44,7 +44,7 @@ Final Prediction: WANT
 
 ## Author
 
-Prepared by [Your Name] as part of the **Computational Neuroscience** course assignment.
+Prepared by [Rehab Elsayed ] as part of the **Computational Neuroscience** course assignment.
 
 Supervised by **A. Prof. Noha El-Attar**
 
