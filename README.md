@@ -69,10 +69,3 @@ def tanh(x):
 
 This repository is created for academic purposes under the guidelines of fair educational use.  
 All assignments reflect independent effort and comply with university integrity policies.
-
----
-
-**Created by:** [Your Name]  
-**Course:** Computational Neuroscience  
-**Instructor:** Dr. [Instructor Name]  
-**University:** [University Name]
