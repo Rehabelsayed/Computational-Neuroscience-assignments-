@@ -43,6 +43,7 @@ git clone https://github.com/your-username/Computational-Neuroscience-assignment
 jupyter notebook
 ```
 
+
 3. Run the cells and follow the comments in each notebook.
 
 ---
@@ -72,7 +73,3 @@ All assignments reflect independent effort and comply with university integrity 
 
 ---
 
-**Created by:** [Your Name]  
-**Course:** Computational Neuroscience  
-**Instructor:** Dr. [Instructor Name]  
-**University:** [University Name]
